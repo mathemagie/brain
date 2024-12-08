@@ -21,3 +21,5 @@ https://www.youtube.com/watch?v=NjOfH9D8aJo&t=2938s
 
 https://www.aitidbits.ai/p/the-rise-of-autonomous-agents
 
+https://github.com/swyxio/ai-notes
+
