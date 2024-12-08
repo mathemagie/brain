@@ -19,3 +19,5 @@ https://www.youtube.com/@indydevdan/videos
 
 https://www.youtube.com/watch?v=NjOfH9D8aJo&t=2938s
 
+https://www.aitidbits.ai/p/the-rise-of-autonomous-agents
+
