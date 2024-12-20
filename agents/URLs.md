@@ -24,4 +24,15 @@
 11. [The rise of autonomous agents](https://www.aitidbits.ai/p/the-rise-of-autonomous-agents)
 
 12. [AI Notes on GitHub](https://github.com/swyxio/ai-notes)
+
+13. [Building Effective Agents](https://www.anthropic.com/research/building-effective-agents?) 
+
+14. [Andrew Ng Explores The Rise Of AI Agents And Agentic Reasoning | BUILD 2024 Keynote](https://www.youtube.com/watch?v=KrRD7r7y7NY) 
+
+15. [Demis Hassabis on Gemini 2.0, Project Astra, Agents, Gaming with Elon, and More](https://www.youtube.com/watch?v=HO7oYuqqnjA) 
+
+16. [Mustafa Suleyman on Copilot Vision, AI Companions, Infinite Memory, AI Agents, and more](https://www.youtube.com/watch?v=dQP2zLYmCG8)
+
+17. [Gemini 2.0 and the evolution of agentic AI with Oriol Vinyals](https://www.youtube.com/watch?v=78mEYaztGaw)
+
 # End of Selection
