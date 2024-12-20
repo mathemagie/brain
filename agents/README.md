@@ -35,4 +35,4 @@
 17. [Gemini 2.0 and the evolution of agentic AI with Oriol Vinyals](https://www.youtube.com/watch?v=78mEYaztGaw)
 
 
-> **Note**: A podcast summarizing these resources has been generated using NoteBoom and is available [here](https://drive.google.com/drive/folders/1JaJCKkl3UB_gQBY7W9EvWb7h2GNy3b3O?usp=sharing).
+> **Note**: A podcast summarizing these resources has been generated using NoteBoom and is available [here](https://drive.google.com/file/d/1FTXWBy1f9G2uJMeiZEtgO7gRr98Rd7jN/view).
