@@ -1,4 +1,3 @@
-# Start of Selection
 ## Useful Resources on Autonomous Agents
 
 1. [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents)
@@ -35,4 +34,5 @@
 
 17. [Gemini 2.0 and the evolution of agentic AI with Oriol Vinyals](https://www.youtube.com/watch?v=78mEYaztGaw)
 
-# End of Selection
+
+> **Note**: A podcast summarizing these resources has been generated using NoteBoom and is available [here](https://drive.google.com/drive/folders/1JaJCKkl3UB_gQBY7W9EvWb7h2GNy3b3O?usp=sharing).
