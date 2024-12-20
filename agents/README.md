@@ -10,7 +10,7 @@
 
 5. [A System of Agents brings Service-as-Software to life](https://foundationcapital.com/system-of-agents/)
 
-6. [YouTube Video](https://www.youtube.com/watch?v=5V4_q-jMTFU&list=LL&index=8)
+6. [The video demonstrates how to create and interact with an mCP server that leverages the OpenAI API for collaborative coding and image generation.](https://www.youtube.com/watch?v=5V4_q-jMTFU&list=LL&index=8)
 
 7. [The new Claude 3.5 Sonnet, Computer Use, and Building SOTA Agents — with Erik Schluntz, Anthropic](https://www.youtube.com/watch?v=QXbsEoOZeTM&t=2141s)
 
@@ -22,9 +22,9 @@
 
 11. [The rise of autonomous agents](https://www.aitidbits.ai/p/the-rise-of-autonomous-agents)
 
-12. [AI Notes on GitHub](https://github.com/swyxio/ai-notes)
+12. [The "ai-notes" GitHub repository serves as a comprehensive resource for software engineers to stay updated on AI developments, focusing on generative and large language models, and includes various markdown files covering topics from text and image generation to AI infrastructure.](https://github.com/swyxio/ai-notes)
 
-13. [Building Effective Agents](https://www.anthropic.com/research/building-effective-agents?) 
+13. [Building Effective Agents by Anthropic](https://www.anthropic.com/research/building-effective-agents?) 
 
 14. [Andrew Ng Explores The Rise Of AI Agents And Agentic Reasoning | BUILD 2024 Keynote](https://www.youtube.com/watch?v=KrRD7r7y7NY) 
 
