@@ -34,5 +34,7 @@
 
 17. [Gemini 2.0 and the evolution of agentic AI with Oriol Vinyals](https://www.youtube.com/watch?v=78mEYaztGaw)
 
+18. [The Future Of AI Agents With Dharmesh Shah | INBOUND 2024](https://www.youtube.com/watch?v=IityUpVVD38&t=2s)
+
 
 > **Note**: A podcast summarizing these resources has been generated using NoteBookLM tool and is available [here](https://drive.google.com/file/d/1FTXWBy1f9G2uJMeiZEtgO7gRr98Rd7jN/view).
