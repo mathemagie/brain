@@ -1,6 +1,39 @@
 import re
 import requests
 import os
+import logging
+
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+)
+
+
+def download_markdown(url):
+    """
+    Downloads markdown content from a given URL.
+    """
+    jina_url = f"https://r.jina.ai/{url}"
+    try:
+        response = requests.get(jina_url)
+        response.raise_for_status()  # Raise HTTPError for bad responses (4xx or 5xx)
+        return response.text
+    except requests.exceptions.RequestException as e:
+        logging.error(f"Error calling jina.ai API for {url}: {e}")
+        return None
+
+
+def save_markdown(content, filename):
+    """
+    Saves markdown content to a file.
+    """
+    try:
+        with open(filename, "w", encoding="utf-8") as f:
+            f.write(content)
+        logging.info(f"Successfully saved markdown to {filename}")
+        return True
+    except IOError as e:
+        logging.error(f"Error saving file {filename}: {e}")
+        return False
 
 
 def get_and_save_md(url):
@@ -20,7 +53,7 @@ def get_and_save_md(url):
 
     # Check if file already exists
     if os.path.exists(filename):
-        print(f"File {filename} already exists, skipping download")
+        logging.info(f"File {filename} already exists, skipping download")
         return True
 
     # Construct jina.ai API URL
@@ -28,14 +61,11 @@ def get_and_save_md(url):
 
     try:
         # Make request to jina.ai API
-        response = requests.get(jina_url)
-        response.raise_for_status()
+        response = download_markdown(url)
 
         # Save markdown content to file
-        with open(filename, "w", encoding="utf-8") as f:
-            f.write(response.text)
+        save_markdown(response, filename)
 
-        print(f"Successfully saved markdown to {filename}")
         return True
 
     except requests.exceptions.RequestException as e:
@@ -78,9 +108,9 @@ if __name__ == "__main__":
     non_youtube_links = get_non_youtube_links(file_path)
 
     if non_youtube_links:
-        print("Non-YouTube Links:")
+        logging.info("Non-YouTube Links:")
         for link in non_youtube_links:
-            print(link)
+            logging.info(link)
             get_and_save_md(link)
     else:
-        print("No non-YouTube links found.")
+        logging.info("No non-YouTube links found.")
