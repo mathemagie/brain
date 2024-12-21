@@ -36,5 +36,7 @@
 
 18. [The Future Of AI Agents With Dharmesh Shah | INBOUND 2024](https://www.youtube.com/watch?v=IityUpVVD38&t=2s) Youtube video
 
+18. [Why I'm Building an Army of AI Agents (and you should too)](https://aisolopreneur.beehiiv.com/p/why-i-m-building-an-army-of-ai-agent)
+
 
 > **Note**: A podcast summarizing these resources has been generated using NoteBookLM tool and is available [here](https://drive.google.com/file/d/1FTXWBy1f9G2uJMeiZEtgO7gRr98Rd7jN/view).
