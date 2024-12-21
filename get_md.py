@@ -2,16 +2,37 @@ import re
 import requests
 import os
 import logging
-
+from urllib.parse import urlparse
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
 )
+
+def is_valid_url(url):
+    """
+    Checks if a URL is valid.
+
+    Args:
+        url (str): The URL to validate.
+
+    Returns:
+        bool: True if the URL is valid, False otherwise.
+    """
+    try:
+        result = urlparse(url)
+        return all([result.scheme, result.netloc])
+    except ValueError:
+        return False
 
 
 def download_markdown(url):
     """
     Downloads markdown content from a given URL.
     """
+
+    if not is_valid_url(url):
+        logging.error(f"Invalid URL: {url}")
+        return None
+    
     jina_url = f"https://r.jina.ai/{url}"
     try:
         response = requests.get(jina_url)
