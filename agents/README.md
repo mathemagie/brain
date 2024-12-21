@@ -40,5 +40,11 @@
 
 19. [Agentic AI - the new frontier, that's already here](https://www.linkedin.com/pulse/agentic-ai-new-frontier-thats-already-here-simon-torrance-hihme/)
 
+20. [Video to LinkedIn Post Agent - A tool that helps you turn videos into engaging LinkedIn posts](https://simple.ai/p/video-to-linkedin-post-agent)
+
+21. [Rise of RaaS (Reasoning as a Service)](https://simple.ai/p/rise-of-raas)
+
+22. [AI Agents Are Learning to Use Your Computer](https://simple.ai/p/ai-agents-are-learning-to-use-your-computer)
+
 
 > **Note**: A podcast summarizing these resources has been generated using NoteBookLM tool and is available [here](https://drive.google.com/file/d/1FTXWBy1f9G2uJMeiZEtgO7gRr98Rd7jN/view).
