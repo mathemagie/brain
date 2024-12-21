@@ -38,5 +38,7 @@
 
 18. [Why I'm Building an Army of AI Agents (and you should too)](https://aisolopreneur.beehiiv.com/p/why-i-m-building-an-army-of-ai-agents)
 
+19. [Agentic AI - the new frontier, that's already here](https://www.linkedin.com/pulse/agentic-ai-new-frontier-thats-already-here-simon-torrance-hihme/)
+
 
 > **Note**: A podcast summarizing these resources has been generated using NoteBookLM tool and is available [here](https://drive.google.com/file/d/1FTXWBy1f9G2uJMeiZEtgO7gRr98Rd7jN/view).
