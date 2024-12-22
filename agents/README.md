@@ -46,5 +46,7 @@
 
 22. [AI Agents Are Learning to Use Your Computer](https://simple.ai/p/ai-agents-are-learning-to-use-your-computer)
 
+23. [Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities](https://www.youtube.com/watch?v=eBVi_sLaYsc) Youtube video
+
 
 > **Note**: A podcast summarizing these resources has been generated using NoteBookLM tool and is available [here](https://drive.google.com/file/d/1FTXWBy1f9G2uJMeiZEtgO7gRr98Rd7jN/view).
