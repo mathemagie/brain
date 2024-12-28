@@ -3,9 +3,11 @@ import requests
 import os
 import logging
 from urllib.parse import urlparse
+
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
 )
+
 
 def is_valid_url(url):
     """
@@ -32,7 +34,7 @@ def download_markdown(url):
     if not is_valid_url(url):
         logging.error(f"Invalid URL: {url}")
         return None
-    
+
     jina_url = f"https://r.jina.ai/{url}"
     try:
         response = requests.get(jina_url)
