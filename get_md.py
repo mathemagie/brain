@@ -51,9 +51,7 @@ def convert_markdown_to_pdf(md_file_path):
     Converts a markdown file to a PDF file.
     """
     # Log the conversion attempt
-    logging.info(
-        f"Converting markdown file {md_file_path} to PDF"
-    )
+    logging.info(f"Converting markdown file {md_file_path} to PDF")
 
     # Check if input file exists
     if not os.path.exists(md_file_path):
