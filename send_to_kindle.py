@@ -16,8 +16,10 @@ load_dotenv()
 # Configure logging with more detailed format
 logging.basicConfig(
     level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(name)s - %(message)s",
-    handlers=[logging.FileHandler("email_sender.log"), logging.StreamHandler()],
+    format=(
+        "%(asctime)s - %(levelname)s - %(name)s - %(message)s"
+    ),
+    handlers=[logging.StreamHandler()],
 )
 
 logger = logging.getLogger(__name__)
@@ -50,11 +52,14 @@ def send_email(file_path: str) -> bool:
         smtp_port = int(os.environ.get("SMTP_PORT", "587"))
 
         if not all([sender_email, recipient_email]):
-            logger.error("Missing email configuration in environment variables")
+            logger.error(
+                "Missing email configuration in environment variables"
+            )
             return False
 
         msg = MIMEMultipart()
-        msg["Subject"] = f"[PDF] {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')}"
+        current_time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
+        msg["Subject"] = f"[PDF] {current_time}"
         msg["From"] = sender_email
         msg["To"] = recipient_email
         msg.attach(MIMEText("PDF document attached"))
@@ -74,10 +79,13 @@ def send_email(file_path: str) -> bool:
         with smtplib.SMTP(smtp_server, smtp_port) as smtp:
             smtp.starttls()
             smtp.login(
-                os.environ.get("MAILJET_USERNAME"), os.environ.get("MAILJET_PASSWORD")
+                os.environ.get("MAILJET_USERNAME"),
+                os.environ.get("MAILJET_PASSWORD")
             )
             smtp.send_message(msg)
-            logger.info(f"Email sent successfully with attachment: {file_path.name}")
+            logger.info(
+                f"Email sent successfully with attachment: {file_path.name}"
+            )
             return True
 
     except Exception as e:

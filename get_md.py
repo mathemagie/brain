@@ -39,7 +39,7 @@ def download_markdown(url):
     jina_url = f"https://r.jina.ai/{url}"
     try:
         response = requests.get(jina_url)
-        response.raise_for_status()  # Raise HTTPError for bad responses (4xx or 5xx)
+        response.raise_for_status()
         return response.text
     except requests.exceptions.RequestException as e:
         logging.error(f"Error calling jina.ai API for {url}: {e}")
@@ -51,7 +51,9 @@ def convert_markdown_to_pdf(md_file_path):
     Converts a markdown file to a PDF file.
     """
     # Log the conversion attempt
-    logging.info(f"Converting markdown file {md_file_path} to PDF")
+    logging.info(
+        f"Converting markdown file {md_file_path} to PDF"
+    )
 
     # Check if input file exists
     if not os.path.exists(md_file_path):
@@ -67,7 +69,8 @@ def convert_markdown_to_pdf(md_file_path):
         return False
 
     os.system(
-        f"md2pdf --css {current_dir}/styles.css {md_file_path} {md_file_path.replace('.md', '.pdf')}"
+        f"md2pdf --css {current_dir}/styles.css "
+        f"{md_file_path} {md_file_path.replace('.md', '.pdf')}"
     )
     return md_file_path.replace(".md", ".pdf")
 
@@ -107,7 +110,6 @@ def get_and_save_md(url):
         return True
 
     # Construct jina.ai API URL
-    jina_url = f"https://r.jina.ai/{url}"
 
     try:
         # Make request to jina.ai API
