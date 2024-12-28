@@ -6,6 +6,7 @@ Markdown Content:
 simple.ai - The Agent AI newsletter
 Login
 Subscribe
+65
 simple.ai - The Agent AI newsletter
 Posts
 AI Agents Are Learning to Use Your Computer
@@ -138,6 +139,21 @@ Click below to let me know.
 
 
 Login or Subscribe to participate in polls.
+
+Keep reading
+An Agent's An Agent No Matter How Small
+
+The Minimum Viable Agent is one that does something useful.
+
+Why The Future Of AI Is Agents
+
+And how curiosity will catapult your career
+
+An AI Agent To Analyze The Personality and Vibe Of A Twitter User
+
+Sometimes, it's not just about what they say, but how they say it.
+
+View more
 
 simple.ai - The Agent AI newsletter
 

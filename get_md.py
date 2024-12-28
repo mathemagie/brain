@@ -3,6 +3,7 @@ import requests
 import os
 import logging
 from urllib.parse import urlparse
+from send_to_kindle import send_email
 
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
@@ -45,6 +46,32 @@ def download_markdown(url):
         return None
 
 
+def convert_markdown_to_pdf(md_file_path):
+    """
+    Converts a markdown file to a PDF file.
+    """
+    # Log the conversion attempt
+    logging.info(f"Converting markdown file {md_file_path} to PDF")
+
+    # Check if input file exists
+    if not os.path.exists(md_file_path):
+        logging.error(f"Input markdown file not found: {md_file_path}")
+        return False
+
+    # Check if CSS file exists
+
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+
+    if not os.path.exists(current_dir + "/styles.css"):
+        logging.warning("styles.css not found, conversion may lack styling")
+        return False
+
+    os.system(
+        f"md2pdf --css {current_dir}/styles.css {md_file_path} {md_file_path.replace('.md', '.pdf')}"
+    )
+    return md_file_path.replace(".md", ".pdf")
+
+
 def save_markdown(content, filename):
     """
     Saves markdown content to a file.
@@ -76,7 +103,7 @@ def get_and_save_md(url):
 
     # Check if file already exists
     if os.path.exists(filename):
-        logging.info(f"File {filename} already exists, skipping download")
+        # logging.info(f"File {filename} already exists, skipping download")
         return True
 
     # Construct jina.ai API URL
@@ -88,6 +115,11 @@ def get_and_save_md(url):
 
         # Save markdown content to file
         save_markdown(response, filename)
+
+        # Convert markdown to PDF
+        pdf_file = convert_markdown_to_pdf(filename)
+
+        send_email(pdf_file)
 
         return True
 
@@ -133,7 +165,6 @@ if __name__ == "__main__":
     if non_youtube_links:
         logging.info("Non-YouTube Links:")
         for link in non_youtube_links:
-            logging.info(link)
             get_and_save_md(link)
     else:
         logging.info("No non-YouTube links found.")

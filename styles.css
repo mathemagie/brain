@@ -1,0 +1,84 @@
+/* Base styles for the body */
+body {
+    /* Using Georgia as primary font with serif fallback for better readability */
+    font-family: Georgia, serif;
+    line-height: 1.6;
+    max-width: 900px;
+    margin: 0 auto;  /* Centers the content */
+    padding: 10px;
+    color: #333;  /* Dark gray text for good contrast */
+}
+
+/* Main heading styles */
+h1 {
+    font-size: 45px;
+    margin-bottom: 18px;
+    text-align: center;
+}
+
+/* Secondary heading styles */
+h2 {
+    font-size: 32px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    color: #444;
+}
+
+/* Paragraph styles */
+p {
+    font-size: 26px;
+    margin-bottom: 15px;
+}
+
+/* Blockquote styling */
+blockquote {
+    border-left: 3px solid #666;  /* Left border for visual distinction */
+    margin: 20px 0;
+    padding-left: 20px;
+    font-style: italic;
+    color: #555;
+}
+
+/* Author section styling */
+.author {
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #666;
+}
+
+/* Introduction paragraph styling */
+.intro {
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+/* List styling */
+ul {
+    margin: 20px 0;
+    padding-left: 25px;
+}
+
+li {
+    font-size: 23px;
+    margin-bottom: 10px;
+}
+
+/* Add responsive design for better mobile experience */
+@media screen and (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+    
+    h1 {
+        font-size: 35px;
+    }
+    
+    h2 {
+        font-size: 27px;
+    }
+    
+    p, li {
+        font-size: 21px;
+    }
+} 
