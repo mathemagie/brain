@@ -29,3 +29,5 @@ Create a Chrome extension that automatically saves URLs to README.md and handles
 
 ## Add Resources to NotebookLM
 - Use NotebookLM API to programmatically add new resources
+
+## Make get_md.py script work with API documentation resources
