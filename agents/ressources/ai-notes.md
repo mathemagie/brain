@@ -160,12 +160,12 @@ The more advanced GPT3 reads have been split out to [https://github.com/sw-yx/ai
 *   reverse chronological major events [https://bleedingedge.ai/](https://bleedingedge.ai/)
 *   [What we Know about LLMs](https://willthompson.name/what-we-know-about-llms-primer#block-920907dc37394adcac5bf4e7318adc10) - great recap of research
 *   [Karpathy's 1hr guide to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g) - summary [from Sarah Chieng](https://twitter.com/SarahChieng/status/1729569057475879103)
-    
+
     *   1.  What is a large language model (LLM)?
-        
+
         *   There are two main components of an LLM
             *   What does an LLM do?
-    
+
     1.  How do you create an LLM?
         *   Stage 1: Model Pre-Training
         *   Stage 2: Model Fine-tuning
@@ -184,7 +184,7 @@ The more advanced GPT3 reads have been split out to [https://github.com/sw-yx/ai
         *   Jailbreaking
         *   Prompt Injecting
         *   Data Poisoning & Backdoor Attacks
-    
+
     *   [Evan Morikawa guide to LLM math](https://newsletter.pragmaticengineer.com/p/scaling-chatgpt) especially the 5 scaling challenges piece
 *   [A Hacker's Guide to Language Models](https://twitter.com/jeremyphoward/status/1705883362991472984?s=20) ([youtube](https://youtu.be/jkrNMKz9pWU?si=BNz-v6VmdbX7QDtr)) Jeremy Howard's 90min complete overview of LLM learnings - starting at the basics: the 3-step pre-training / fine-tuning / classifier ULMFiT approach used in all modern LLMs.
 *   [https://spreadsheets-are-all-you-need.ai](https://spreadsheets-are-all-you-need.ai/)
@@ -348,7 +348,7 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
     *   2015: [Semi-supervised sequence learning](https://arxiv.org/abs/1511.01432) [https://twitter.com/deliprao/status/1611896130589057025?s=20](https://twitter.com/deliprao/status/1611896130589057025?s=20)
     *   2017: Transformers (Vaswani et al)
     *   2018: GPT (Radford et al)
-    
+
 *   Misc
     *   StabilityAI CIO perspective [https://danieljeffries.substack.com/p/the-turning-point-for-truly-open?sd=pf](https://danieljeffries.substack.com/p/the-turning-point-for-truly-open?sd=pf)
     *   [https://github.com/awesome-stable-diffusion/awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)

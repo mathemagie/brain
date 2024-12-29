@@ -104,15 +104,15 @@ Great question!
 **In addition to analyzing their objective, and coming up with tasks, autonomous agents can have a range of abilities that can enable them to complete any digital task a human could, such as:**
 
 *   Access to browsing the internet and using apps
-    
+
 *   Long-term and short-term memory
-    
+
 *   Control of your computer
-    
+
 *   Access to a credit card or other form of payment
-    
+
 *   Access to large language models (LLMs) like GPT for analysis, summarization, opinion, and answers.
-    
+
 
 Also, these autonomous agents will come in all shapes and sizes. Some will operate behind the scenes where the user is unaware of what they are doing, while some will be visible, like in the example above, where the user can follow along with each “thought” the AI has.
 
@@ -129,21 +129,21 @@ Yes, of course.
 Let’s say that there is an autonomous agent that helps with research, and we want a summary of the latest news about a certain topic, let’s say “News about Twitter”
 
 *   We tell the agent “Your objective is to find out the recent news about Twitter and then send me a summary”.
-    
+
 *   So the agent looks at the objective, uses an AI like OpenAI’s GPT-4 which allows it to understand what it is reading, and it comes up with it’s first task. “Task: Search google for news related to Twitter”.
-    
+
 *   The agent then searches google for Twitter news, finds the top articles, and comes back with a list of links. The first task is complete.
-    
+
 *   Now the agent looks back at its main objective (to find out the recent news about Twitter and then send a summary) and at what it just completed (got a bunch of links of news about Twitter) and decides what its next tasks need to be.
-    
+
 *   It comes up with two new tasks. 1) Write a summary of the news. 2) Read the contents of the news links found via google.
-    
+
 *   Now the agent stops for a second before continuing, it needs to make sure that these tasks are in the right order. Should it really be writing the summary first? No, it determines that the top priority is to read the contents of the news links found via google.
-    
+
 *   The agent reads the content from the articles, and then once again comes back to the to do list. It thinks to add a new task to summarize the content but that task is already on the todo list so it doesn’t add it.
-    
+
 *   The agent checks the todo list, the only item left is to summarize the content it read, so it does that. It sends you the summary just like you asked.
-    
+
 
 **Here is a diagram showing how this works**.
 
@@ -190,9 +190,9 @@ So what do you do with this information?
 **There are two very real opportunities.**
 
 1.  **You create autonomous agents** and make them available for others to hire.
-    
+
 2.  **You hire autonomous agents** and can now afford to be more productive in your personal life, or in business.
-    
+
 
 “Autonomous Agents are the next wave — not just in tech, but in business at large. I predict that within 10 years, there will be multiple billion-dollar companies run entirely by autonomous agents. It is inevitable.”
 
@@ -223,23 +223,23 @@ Right now is a time to build out the frameworks because the AI itself is still i
 **First, here a generalized framework for an autonomous agent**:
 
 1.  **Initialize Goal**: Define the objective for the AI.
-    
+
 2.  **Task Creation**: The AI checks its memory for the last X tasks completed (if any), and then uses it’s objective, and the context of it’s recently completed tasks, to generate a list of new tasks.
-    
+
 3.  **Task Execution**: The AI executes the tasks autonomously.
-    
+
 4.  **Memory Storage**: The task and executed results are stored in a vector database.
-    
+
 5.  **Feedback Collection**: The AI collects feedback on the completed task, either in the form external data or internal dialogue from the AI. This feedback will be used to inform the next iteration of the Adaptive Process Loop.
-    
+
 6.  **New Task Generation**: The AI generates new tasks based on the collected feedback and internal dialogue.
-    
+
 7.  **Task Prioritization**: The AI reprioritizes the task list by reviewing it’s objective and looking at the last task completed.
-    
+
 8.  **Task Selection**: The AI selects the top task from the prioritized list, and proceeds to execute them as described in step 3.
-    
+
 9.  **Iteration**: The AI repeats steps 4 through 8 in a continuous loop, allowing the system to adapt and evolve based on new information, feedback, and changing requirements.
-    
+
 
 _Pretty incredible._
 
@@ -260,19 +260,19 @@ Let’s say that instead of hiring a social media manager to manage your social 
 Here’s what a framework for that autonomous agent might look like.
 
 1.  **Initialize Goal**: Set up the initial parameters, such as target audience, social media platforms, content categories, and posting frequency.
-    
+
 2.  **Data Collection**: Collect data on past social media posts, user interactions, and platform-specific trends. This could include likes, shares, comments, and other engagement metrics.
-    
+
 3.  **Content Analysis**: Analyze the collected data to identify patterns, popular topics, hashtags, and influencers relevant to your target audience. This step could involve natural language processing and machine learning techniques to understand the content and its context.
-    
+
 4.  **Content Creation**: Based on the analysis, generate content ideas and create social media posts tailored to the platform and audience preferences. This could involve using AI-generated text, images, or videos, as well as incorporating user-generated content or curated content from other sources.
-    
+
 5.  **Scheduling**: Determine the optimal time to post each piece of content based on platform-specific trends, audience activity, and desired frequency. Schedule the posts accordingly.
-    
+
 6.  **Performance Monitoring**: Track the performance of each post in terms of engagement metrics, such as likes, shares, comments, and click-through rates. Gather user feedback, if possible, to further refine the understanding of audience preferences.
-    
+
 7.  **Iteration and Improvement**: Analyze the performance data and user feedback to identify areas for improvement. Update the content strategy, creation, and scheduling processes to incorporate these insights. Iterate through steps 2–7 to continuously refine the social media management system and improve its effectiveness over time.
-    
+
 
 “People will own personal agents which communicate with agents owned by other people and businesses. Most computing devices will primarily serve as communication devices for speaking with agents.”
 
@@ -291,21 +291,21 @@ What if you are running for political office and you want to leverage an intelli
 This is what an autonomous agent that helps you win an election might look like.
 
 1.  **Initialize Goal**: Win the election by securing the majority of votes.
-    
+
 2.  **Data Collection**: Gather data on voters, demographics, key issues, campaign messaging, and other relevant information.
-    
+
 3.  **Context Analysis**: Analyze the collected data to identify trends, opportunities, and challenges. Refine the initial goal into specific subgoals based on this analysis, such as targeting undecided voters, increasing voter turnout in key areas, or improving campaign messaging on particular issues.
-    
+
 4.  **Task Generation**: Generate tasks related to the refined subgoals, such as planning voter outreach events, creating targeted advertisements, or developing policy proposals.
-    
+
 5.  **Task Prioritization**: Rank tasks based on their potential impact on achieving the subgoals and the overall goal of winning the election.
-    
+
 6.  **Task Execution**: Execute the highest priority tasks, allocating resources and assigning team members as needed.
-    
+
 7.  **Performance Monitoring**: Assess the effectiveness of completed tasks by tracking key performance indicators like voter engagement, public opinion, and fundraising metrics. Evaluate the success of individual tasks and overall campaign progress toward the subgoals and initial goal.
-    
+
 8.  **Iteration and Improvement**: Analyze the performance data to identify areas for improvement. Update the campaign strategy to incorporate these insights. Iterate through steps 2–8 to continuously refine the political campaign management system and improve its effectiveness over time.
-    
+
 
 “I'm most excited by the recursive self-cloning capability. The AI agent can create a copy of itself, pass on task directives, and start talking with its own sibling to get the job done. It is quite a remarkable but alien emergent ability.”
 
@@ -322,23 +322,23 @@ Here is an autonomous agent that is designed to teach a child math.
 “This is a breakthrough paradigm that has a LOT of room for exploration. Although early experiments have limited agents to search queries, we're going to see a wide range of research and side projects arming autonomous agents with new batches of tools. Each set of tools will significantly expand the potential use cases.”
 
 1.  **Initialize Goal**: Identify the child’s current math skill level and set a personalized learning path to help them improve.
-    
+
 2.  **Data Collection**: Gather information on the child’s learning style, progress, and performance through assessments, interactions, and feedback.
-    
+
 3.  **Context Analysis**: Analyze the collected data to identify strengths, weaknesses, and learning preferences, as well as any external factors influencing the child’s progress.
-    
+
 4.  **Task Generation**: Generate tutoring tasks based on the child’s needs and learning path, such as selecting appropriate exercises, providing explanations, or offering real-life examples and applications.
-    
+
 5.  **Task Prioritization**: Rank tutoring tasks based on their potential impact on the child’s learning and skill development, ensuring a balance between challenge and engagement.
-    
+
 6.  **Task Execution**: Execute the highest priority tasks, adapting the tutoring approach and content delivery as needed to maximize the child’s learning and engagement.
-    
+
 7.  **Performance Monitoring**: Assess the effectiveness of the tutoring by tracking key performance indicators (KPIs) such as progress toward learning goals, improvement in math skills, and the child’s engagement and satisfaction.
-    
+
 8.  **Feedback Loop**: Continuously monitor the child’s performance and update the context analysis, task generation, and task prioritization steps based on new data and insights. Adjust the initial goal and learning path as necessary to better support the child’s math skill development.
-    
+
 9.  **Iteration and Improvement**: Analyze the child’s performance and update the context analysis, task generation, and task prioritization steps based on new data and insights. Adjust the initial goal and learning path as necessary to better support the child’s math skill development. Iterate through steps 2–9 to continuously refine the political campaign management system and improve its effectiveness over time.
-    
+
 
 This autonomous agent loop type system outlines a process for an educational math tutor to adaptively support and guide a child’s learning experience, focusing on continuous improvement and personalization based on the child’s needs and progress.
 
@@ -367,13 +367,13 @@ People will move through life with autonomous agents of all kinds augmenting the
 Here are my predictions for the future of autonomous agents:
 
 *   **2023** multiple commercialized autonomous agents for gaming, personal use, marketing, and sales.
-    
+
 *   **2024** commercialized autonomous agents for every category but not mainstream adoption.
-    
+
 *   **2025** mainstream adoption of autonomous agents in every category for everything imaginable.
-    
+
 *   **2026** most people in first-world countries are going about every day life with the support of an army of autonomous agents.
-    
+
 
 **In the next 2-5 years most people will work for an autonomous agent instead of a human.**
 -------------------------------------------------------------------------------------------
@@ -405,13 +405,13 @@ I’m excited to see what you can do with this, and if you make something cool, 
 You have a couple different options here.
 
 1.  **Build It Yourself**: Look at the framework I provided earlier and embark on a journey to build everything from scratch! You can definitely do this, it’s not a scary as it might sound. Some recommended software solutions are [OpenAI’s GPT-4](http://openai.com/?utm_source=www.mattprd.com&utm_medium=referral&utm_campaign=the-complete-beginners-guide-to-autonomous-agents), [Pinecone vector database](http://pinecone.io/?utm_source=www.mattprd.com&utm_medium=referral&utm_campaign=the-complete-beginners-guide-to-autonomous-agents), and [LangChain’s framework](https://langchain.com/?utm_source=www.mattprd.com&utm_medium=referral&utm_campaign=the-complete-beginners-guide-to-autonomous-agents).
-    
+
 2.  [Auto-GPT](https://github.com/Torantulino/Auto-GPT?utm_source=www.mattprd.com&utm_medium=referral&utm_campaign=the-complete-beginners-guide-to-autonomous-agents): This is a popular open source option created by Toran Richards. It includes options to connect to the internet, use apps, long-term and short-term memory, and more.
-    
+
 3.  [BabyAGI](https://github.com/yoheinakajima/babyagi?utm_source=www.mattprd.com&utm_medium=referral&utm_campaign=the-complete-beginners-guide-to-autonomous-agents): Another popular open source option, this one created by Yohei Nakajima. While this one doesn’t connect to the internet yet, it is extremely elegant with under 200 lines of code.
-    
+
 4.  [Microsoft’s Jarvis](https://github.com/microsoft/JARVIS?utm_source=www.mattprd.com&utm_medium=referral&utm_campaign=the-complete-beginners-guide-to-autonomous-agents): Very similar to Auto-GPT and BabyAGI, but much more robust and brought to you by Microsoft and HuggingFace.
-    
+
 
 “I think we'll initially have vertical-specific autonomous agents that are fine-tuned on a certain set of data that allows them to take on a role in that field. The two (only?) areas of LLMs where we've seen big adoption so far is copywriting and programming. Extrapolating further, it makes sense to think that the AIs we have in those two spaces will start to become more autonomous. One way that could play out in the near future is that instead of the human giving a prompt to initialize the copy writing or the code completion, the AI autonomously gives you new suggestions each day for you to review, without you first having to start or prompt them.”
 
@@ -420,22 +420,22 @@ You have a couple different options here.
 Ready to have your own agent? Here are some options.
 
 1.  Spin up any of the options in the build your own section above!
-    
+
 2.  [AgentGPT](https://agentgpt.reworkd.ai/?utm_source=www.mattprd.com&utm_medium=referral&utm_campaign=the-complete-beginners-guide-to-autonomous-agents): Create and run an autonomous agent (AutoGPT) from a website, no login required.
-    
+
 3.  **HyperWrite Assistant**: Add a chrome extension that lets you give your browser commands and the browser follows through.
-    
+
 
 people from all walks of life can benefit from the expertise and efficiency previously reserved for the upper echelons of society. This democratization of personal assistance can lead to greater productivity and a more balanced work-life experience, empowering individuals to focus on their passions, creativity, and personal growth while their AI assistants take care of the more mundane aspects of their daily lives.”
 
 ### **Additional Resources:**
 
 *   [Autonomous Agents & Agent Simulations](https://blog.langchain.dev/agents-round/?utm_source=www.mattprd.com&utm_medium=referral&utm_campaign=the-complete-beginners-guide-to-autonomous-agents) (via Langchain)
-    
+
 *   [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf?utm_source=www.mattprd.com&utm_medium=referral&utm_campaign=the-complete-beginners-guide-to-autonomous-agents) (via arxiv)
-    
+
 *   [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/pdf/2303.17580.pdf?utm_source=www.mattprd.com&utm_medium=referral&utm_campaign=the-complete-beginners-guide-to-autonomous-agents) (via arxiv)
-    
+
 
 No matter if you can code, or you don’t yet know how, I encourage you to take a few hours to experiment with these. It is not as complex or as difficult as it may seem and the quicker you get your hands dirty the faster you’re going to learn about autonomous agents.
 
@@ -460,20 +460,20 @@ You are only at the beginning of your autonomous agents journey, and I know you 
 If you’re sitting there thinking any of the following then I have the perfect solutions for you:
 
 *   “_I wish I could stay up to date on new developments in autonomous agents_”
-    
+
 *   “_I have an idea for an autonomous agent, I want to share it with someone and see what they think!_”
-    
+
 *   “_I built an autonomous agent, I would love to share it with people!_”
-    
+
 *   “_I want to invest in people building autonomous agents_”
-    
+
 
 If this sounds like you, and your autonomous agent curiosity has been sparked, here’s what you should do next.
 
 1.  **[Subscribe to my newsletter](https://www.mattprd.com/subscribe)** and **[subscribe to my new YouTube channel](https://www.youtube.com/@mattprd?sub_confirmation=1&utm_source=www.mattprd.com&utm_medium=referral&utm_campaign=the-complete-beginners-guide-to-autonomous-agents)** to continue to get more insights, news, and product thoughts on AI and autonomous agents. I have been building products (used by thousands of businesses) in this space since 2016 and try to always be on the forefront of what is happening.
-    
+
 2.  **[Join the Autonomous Agents group on Facebook](https://www.facebook.com/groups/autonomousagents?utm_source=www.mattprd.com&utm_medium=referral&utm_campaign=the-complete-beginners-guide-to-autonomous-agents)**. Here you can share content, projects, and opinions on autonomous agents.
-    
+
 
 For example when I talked about autonomous agents to Emad Mostaque, the founder and CEO of Stability AI, his response was a coy “_Swarm intelligence will beat AGI.”_ What does he mean by that? Subscribe to my newsletter and we’ll explore it deeper.
 

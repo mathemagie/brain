@@ -16,13 +16,13 @@ So when I heard about a new agent built recently on agent.ai that's completely c
 Here's how it works in a nutshell:
 
 *   You provide a YouTube video URL (a regular video, podcast, interview, or keynote)
-    
+
 *   The agent analyzes it and understands the key points
-    
+
 *   It generates 3 different LinkedIn posts (1 humorous, 1 educational, 1 insightful)
-    
+
 *   Each post is optimized for LinkedIn's algorithm and engagement
-    
+
 
 In today's newsletter, I'm breaking down some real examples (and showing you where you can try it with your content, for free).
 
@@ -44,11 +44,11 @@ But like many busy people, I faced a familiar problem: How do you turn an hour o
 That's where this agent came in handy. Here's exactly what I did:
 
 1.  Grabbed the YouTube URL from our conversation.
-    
+
 2.  Pasted the transcript into the [YouTube to LinkedIn Post Agent](https://agent.ai/agent/youtube-to-linkedin-agent?utm_source=simple.ai&utm_medium=referral&utm_campaign=turn-videos-into-linkedin-posts-using-ai-agents) (just copied and pasted — took about 30 seconds)
-    
+
 3.  Hit 'Go' and waited about 45 seconds
-    
+
 
 The results surprised me. Not just because of the quality, but because of how well it maintained the core messages while adapting them for different audiences.
 
@@ -62,22 +62,22 @@ In 2024, LinkedIn isn't just another social platform — it's where the real B2B
 That's another key point that makes this agent interesting. Instead of just generating generic posts, it creates three distinct flavors:
 
 1.  **Humorous Posts -** These add a light touch to business insights. They're not trying to be TikTok-funny, but they help your ideas land with a smile.
-    
+
 2.  **Educational Posts -** These focus on the meaty insights, perfect for when you want to share real learning moments or strategic thinking.
-    
+
 3.  **Insightful Posts -** These are designed to start conversations. They take a stance and invite engagement (without being controversial just for clicks).
-    
+
 
 The agent doesn't just rewrite content — it helps you find different angles to share your message. It's like having a content strategist who:
 
 *   Understands LinkedIn's dynamics
-    
+
 *   Knows what drives engagement
-    
+
 *   Can adapt tone while keeping your voice
-    
+
 *   Helps you test different approaches
-    
+
 
 Here's one of my favorite outputs from the "Educational" category:
 
@@ -95,15 +95,15 @@ It costs 1 credit per batch of 3 posts (everyone gets 100 free credits when you 
 Some tips for getting the most value:
 
 1.  Start with strong source material (a really good podcast, interview, or keynote)
-    
+
 2.  Run multiple variations to get different perspectives
-    
+
 3.  Keep the best posts in a content library for future reference
-    
+
 4.  Mix different styles throughout the week (humorous posts early week, educational ones later)
-    
+
 5.  Always edit the output to match your voice
-    
+
 
 Pro tip: I like to run it on my most successful past posts to get new angles I hadn't considered. Sometimes the AI finds gems in places you wouldn't expect.
 

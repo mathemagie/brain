@@ -38,7 +38,7 @@ Let's look at what's been announced (and the rumors) just in the last few weeks:
 
 Anthropic's Computer Use API (Available now)
 
-	
+
 
 Claude can now use computer software, just like humans can through their API
 
@@ -48,7 +48,7 @@ Think "GPT-3 level" – powerful but needs refinement
 
 OpenAI's Operator (Rumored)
 
-	
+
 
 OpenAI’s reported agent that can operate a web browser and complete multi-step process tasks autonomously
 
@@ -58,7 +58,7 @@ Both research preview and developer API planned
 
 ChatGPT's macOS App Integration (Live in Beta)
 
-	
+
 
 Allows ChatGPT for macOS to work with apps on your desktop
 
@@ -68,7 +68,7 @@ This signals early steps toward fuller computer control
 
 Google's 'Project Jarvis' (Rumored)
 
-	
+
 
 Reported by The Information, Google is developing a browser-focused AI assistant
 

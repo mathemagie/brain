@@ -16,8 +16,8 @@ We’ve since engaged with hundreds of startups racing to use AI to reshape trad
 
 ![Image 15](https://foundationcapital.com/wp-content/uploads/2024/10/FC_Service-as-software_Market-Map_Yesterday-Final-1024x576.png)
 
-  
-Phase 1 software marked an important step in digitizing business processes but suffered from incomplete or biased data inputs, leading to frequent inaccurate predictions. 
+
+Phase 1 software marked an important step in digitizing business processes but suffered from incomplete or biased data inputs, leading to frequent inaccurate predictions.
 
 In the SaaS era, startups built software to assist humans with workflows of varying complexity, a model that fueled enterprise growth for decades. Salesforce is the archetypal example of such a System of Record.
 
@@ -27,13 +27,13 @@ Salespeople are often so busy selling that they do not spend tedious hours updat
 
 Because a Phase 1 CRM (i.e Salesforce) has limited, missing, or biased inputs, its predictions based on this data are oftentimes wrong. Software like this marked an important first step in digitizing business processes, but is far from the end of software’s evolution or capabilities.
 
-**Phase 2: Enter AI** 
+**Phase 2: Enter AI**
 ----------------------
 
 ![Image 16](https://foundationcapital.com/wp-content/uploads/2024/10/FC_Service-as-software_Market-Map_Today_Final-1024x576.png)
 
-  
-Today’s software is more likely to capture and process both structured and unstructured data, and to generally play a more proactive role in daily work. 
+
+Today’s software is more likely to capture and process both structured and unstructured data, and to generally play a more proactive role in daily work.
 
 Today’s systems don’t passively wait for net new input from humans, they actively capture and process both structured and unstructured data in real time.
 
@@ -50,7 +50,7 @@ Phase 3: The future, a System of Agents
 
 ![Image 17](https://foundationcapital.com/wp-content/uploads/2024/10/FC_Header-Service-as-software_Market-Map_Tomorrow-1-1024x576.png)
 
-A System of Agents becomes a System of Work—providing actual decision-making and task execution. Each agent creates new data that is fed back into the inputs, which then re-train and improve all agents in the system.  
+A System of Agents becomes a System of Work—providing actual decision-making and task execution. Each agent creates new data that is fed back into the inputs, which then re-train and improve all agents in the system.
 
 In Phase 3, AI agents begin working with each other, in a System of Agents.
 
@@ -69,7 +69,7 @@ We’re still in the early innings of building Systems of Agents. After hearing 
 
 ![Image 18](https://foundationcapital.com/wp-content/uploads/2024/10/FC_Service-as-software_Market-Map-Final-718x1024.png)
 
-**Key considerations for building Systems of Agents** 
+**Key considerations for building Systems of Agents**
 ------------------------------------------------------
 
 ​​Startups building with agents are not just adopting new technologies; they are reshaping what’s possible in their respective areas. Here are a few things to consider.

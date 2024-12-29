@@ -6,7 +6,7 @@ Markdown Content:
 Agentic AI - the new frontier, that's already here
 ===============
 
-   
+
 
 Agree & Join LinkedIn
 
@@ -33,7 +33,7 @@ Don’t have the app? Get it in the Microsoft Store.
 
 [Join now](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fagentic-ai-new-frontier-thats-already-here-simon-torrance-hihme%2F&trk=article-ssr-frontend-pulse_nav-header-join) [Sign in](https://www.linkedin.com/uas/login?session_redirect=%2Fpulse%2Fagentic-ai-new-frontier-thats-already-here-simon-torrance-hihme%2F&fromSignIn=true&trk=article-ssr-frontend-pulse_nav-header-signin) [![Image 1](https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2)](https://www.linkedin.com/uas/login?session_redirect=%2Fpulse%2Fagentic-ai-new-frontier-thats-already-here-simon-torrance-hihme%2F&fromSignIn=true&trk=article-ssr-frontend-pulse_nav-header-signin)
 
-  
+
 
 ![Image 2: Agentic AI - the new frontier, that's already here](https://media.licdn.com/dms/image/v2/D4E12AQFWWl7mH66Z2g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1727941938544?e=2147483647&v=beta&t=ATUPisCvGrYJDO5SHER61gUNoqezqymwIl5iGmmuywc)
 
@@ -96,7 +96,7 @@ At a conference in February this year, we referred to Mustapha Suleyman, the co-
 
 The case study we feature below suggests that it may not be…
 
-![Image 4](https://www.linkedin.com/pulse/agentic-ai-new-frontier-thats-already-here-simon-torrance-hihme/) 
+![Image 4](https://www.linkedin.com/pulse/agentic-ai-new-frontier-thats-already-here-simon-torrance-hihme/)
 
 Case Study – When ‘Necessity is the mother of invention’
 --------------------------------------------------------
@@ -150,7 +150,7 @@ The insurance industry - today - is based on the principle of mutualisation or �
 
 The risks are spread and shared across this population – some of the customers (bad drivers for example) are more likely to claim than others (good drivers). By including both types in the pool, insurers can spread the costs of insuring everyone, setting affordable premiums that work for the group as a whole. That's what regulators oversee.
 
-![Image 9](https://www.linkedin.com/pulse/agentic-ai-new-frontier-thats-already-here-simon-torrance-hihme/) 
+![Image 9](https://www.linkedin.com/pulse/agentic-ai-new-frontier-thats-already-here-simon-torrance-hihme/)
 
 Agentic AI potentially disrupts this centuries-old industry model, which has assumed a world of partial and poor quality data and a limited ability to process it. AI is now able to undertake – and act upon – more dynamic and real-time risk assessments in ways that shifts the calculation of risk probability from the group to the individual level. Mass personalisation and new types of risk management solutions become increasingly feasible.
 
@@ -184,7 +184,7 @@ While this case study involves a small company in a specific sector, we chose it
 9.  Workforce re-design: Agentic AI increases the potential to automate all kinds of knowledge work, but it’s not just about technology — it's about reimagining how an organisation interacts, works, and creates value. Where can non-human teams do things better, where can hybrid human-robot teams be more effective, how to re-configure the organisation?
 10.  Leadership is key: Jim’s friend had a major problem to solve, fast. He was willing to take a risk and try something radically new, in a highly regulated industry. He trusted Jim, who delivered a robust, compliant, and world-leading solution at incredible speed.
 
-![Image 11](https://www.linkedin.com/pulse/agentic-ai-new-frontier-thats-already-here-simon-torrance-hihme/) 
+![Image 11](https://www.linkedin.com/pulse/agentic-ai-new-frontier-thats-already-here-simon-torrance-hihme/)
 
 Why Agentic AI Matters
 ----------------------
@@ -209,7 +209,7 @@ It helps leadership teams align on how to break away from ‘dabbling’ and ‘
 
 For example, we have a method for rapidly identifying the most potentially impactful PoC's (like the example above in this article) and help activate them in a safe and ethically responsible environment.
 
-![Image 12](https://www.linkedin.com/pulse/agentic-ai-new-frontier-thats-already-here-simon-torrance-hihme/) 
+![Image 12](https://www.linkedin.com/pulse/agentic-ai-new-frontier-thats-already-here-simon-torrance-hihme/)
 
 In this edition of the AI Risk & Strategy newsletter we’ve shared an initial, high level introduction to a new and important form of AI. We recommend that leaders allocate more time to [truly understanding developments like](https://www.linkedin.com/posts/simontorrance_airisk-genai-exponential-activity-7230544826998411265-7rfx?utm_source=share&utm_medium=member_desktop&trk=article-ssr-frontend-pulse_little-text-block) this and the wider ‘art of the possible’. And, on the basis of that, to start planning bigger and bolder bets on AI.
 
@@ -231,7 +231,7 @@ Links with this icon were created by LinkedIn and links without it were added by
 
 [\+ Subscribe](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fagentic-ai-new-frontier-thats-already-here-simon-torrance-hihme%2F)
 
-    
+
 
 [Like](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fagentic-ai-new-frontier-thats-already-here-simon-torrance-hihme%2F&trk=article-ssr-frontend-pulse_x-social-details_like-toggle_like-cta)
 
@@ -249,7 +249,7 @@ Links with this icon were created by LinkedIn and links without it were added by
 
 [Comment](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fagentic-ai-new-frontier-thats-already-here-simon-torrance-hihme%2F&trk=article-ssr-frontend-pulse_comment-cta)
 
- 
+
 
 *   Copy
 *   LinkedIn
@@ -258,7 +258,7 @@ Links with this icon were created by LinkedIn and links without it were added by
 
 Share
 
- 
+
 
    [![Image 20](https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671) ![Image 21](https://static.licdn.com/aero-v1/sc/h/a0e8rff6djeoq8iympcysuqfu) ![Image 22](https://static.licdn.com/aero-v1/sc/h/asiqslyf4ooq7ggllg4fyo4o2) 120](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fagentic-ai-new-frontier-thats-already-here-simon-torrance-hihme%2F&trk=article-ssr-frontend-pulse_x-social-details_likes-count_social-actions-reactions)           [55 Comments](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Fagentic-ai-new-frontier-thats-already-here-simon-torrance-hihme%2F&trk=article-ssr-frontend-pulse_x-social-details_likes-count_social-actions-comments)
 
@@ -436,9 +436,9 @@ Explore topics
     *   Tiếng Việt (Vietnamese)
     *   简体中文 (Chinese (Simplified))
     *   正體中文 (Chinese (Traditional))
-    
+
     Language
-    
+
 
 ![Image 47](https://static.licdn.com/aero-v1/sc/h/5k9cgtx8rhoyqkcxfoncu1svl)
 
@@ -452,7 +452,7 @@ Sign in
 Welcome back
 ------------
 
-      
+
 
 Email or phone
 
@@ -460,7 +460,7 @@ Password
 
  Show
 
- 
+
 
 [Forgot password?](https://www.linkedin.com/uas/request-password-reset?trk=pulse-article_contextual-sign-in-modal_sign-in-modal_forgot_password)  Sign in
 

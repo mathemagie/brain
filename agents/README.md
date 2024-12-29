@@ -1,6 +1,6 @@
 ## Useful Resources on Autonomous Agents
 
-1. [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents) 
+1. [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents)
 
 2. [What's next for AI agentic workflows ft. Andrew Ng of AI Fund](https://www.youtube.com/watch?v=sal78ACtGTc) Youtube video
 
@@ -24,7 +24,7 @@
 
 12. [The "ai-notes" GitHub repository serves as a comprehensive resource for software engineers to stay updated on AI developments, focusing on generative and large language models, and includes various markdown files covering topics from text and image generation to AI infrastructure.](https://github.com/swyxio/ai-notes)
 
-13. [Building Effective Agents by Anthropic](https://www.anthropic.com/research/building-effective-agents?) 
+13. [Building Effective Agents by Anthropic](https://www.anthropic.com/research/building-effective-agents?)
 
 14. [Andrew Ng Explores The Rise Of AI Agents And Agentic Reasoning | BUILD 2024 Keynote](https://www.youtube.com/watch?v=KrRD7r7y7NY) Youtube video
 

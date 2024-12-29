@@ -10,11 +10,11 @@ For those who haven't, I shared quite a bit about my journey.
 In today’s newsletter, I wanted to share a summary of four core ideas from the podcast:
 
 *   How $3.65/hour taught me my biggest career lesson
-    
+
 *   The Valley of AI Agents: What’s coming next
-    
+
 *   Results as a Service (RaaS): Beyond just software
-    
+
 
 _Reader warning: For most of these responses, I tried to tailor around My First Million's audience. But I promise there's still some juicy AI agent info._
 
@@ -62,11 +62,11 @@ People don't want software — they want results. Just like "people want holes, 
 I've been building software products for 30+ years, and I've seen the evolution:
 
 *   First, we had traditional software you installed
-    
+
 *   Then came SaaS (Software as a Service)
-    
+
 *   Now, I think we're entering the era of RaaS (Results as Service)
-    
+
 
 A good example would be if I sold you legal software to analyze a contract in the real estate space that will give you commentary on whether this matches benchmarks or, even in the VC world, a term sheet. You don't want the software — you want to know if the terms are fair.
 

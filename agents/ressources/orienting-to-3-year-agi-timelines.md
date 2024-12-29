@@ -6,7 +6,7 @@ Published Time: 2024-12-22T01:15:11.401Z
 
 Markdown Content:
 Orienting to 3 year AGI timelines — LessWrong
-=============== 
+===============
 
 [LESSWRONG](https://www.lesswrong.com/)
 
@@ -197,13 +197,13 @@ I know it can be stressful to think about short AGI timelines, but this should o
 One upside of planning under short timelines is that the pieces are mostly all in place right now, and thus it’s much easier to plan than e.g. 10 years ahead. We have a somewhat good sense of what needs to be done to make AGI go well. Let's make it happen.
 
 1.  **[^](https://www.lesswrong.com/posts/jb4bBdeEEeypNkqzj/orienting-to-3-year-agi-timelines#fnref44f4sjs66x9)**
-    
+
     I define AGI here as an AI system which is able to perform 95% of the remote labor that existed in 2022. I don’t think definitions matter that much anyways because once we reach AI R&D automation, basically every definition of AGI will be hit soon after (barring coordinated slowdowns or catastrophes).
-    
+
 2.  **[^](https://www.lesswrong.com/posts/jb4bBdeEEeypNkqzj/orienting-to-3-year-agi-timelines#fnrefk68c5abgjsg)**
-    
+
     While they’re still using Slack that is. After strong government oversight, it’s unlikely that external human researchers will have any nontrivial sway over what happens on the inside.
-    
+
 
 New to LessWrong?
 -----------------
@@ -350,9 +350,9 @@ this is (1) a possible out as it would halt large-scale ASI development, and (2)
 however, if the nuclear states in question just think ASI will be a very good labor automator, then maybe none would be willing to do nuclear war over it, even if it would technically be in the interest of the myopic 'state power' goal[\[1\]](https://www.lesswrong.com/posts/jb4bBdeEEeypNkqzj/orienting-to-3-year-agi-timelines#fnnvk9sd6z0fm). i don't know. (so maybe (2) needs a minimum of seriousness higher than 'it will automate lots of labor' but lower than 'it is a probable extinction risk')
 
 1.  **[^](https://www.lesswrong.com/posts/jb4bBdeEEeypNkqzj/orienting-to-3-year-agi-timelines#fnrefnvk9sd6z0fm)**
-    
+
     "(??? why?)" by which i mean it seems absurd/perplexing (however likely) that people would be so myopic. 'state i was born in having dominance' is such an alien goal also.)
-    
+
 
 Reply
 
@@ -376,23 +376,23 @@ Reply
 
 \[\-\][sapphire](https://www.lesswrong.com/users/deluks917)[6d](https://www.lesswrong.com/posts/jb4bBdeEEeypNkqzj/orienting-to-3-year-agi-timelines?commentId=RqQ9hZMERCavvaKis)111
 
-I have done a lot of thinking. At this point timelines are so short I would recommend:  
-  
-Individual with no special connections:  
-  
-\-- Avoid tying up capital in illiquid plans. One exception is housing since 'land on Holy Terra' still seems quite valuable in many scenarios.  
-  
+I have done a lot of thinking. At this point timelines are so short I would recommend:
+
+Individual with no special connections:
+
+\-- Avoid tying up capital in illiquid plans. One exception is housing since 'land on Holy Terra' still seems quite valuable in many scenarios.
+
 \-- Make whatever spiritual preparations you can, whatever spirituality means to you. If you are inclined to Buddhism meditate. Practice loving kindness. Go to church if you are Christian. Talk to your loved ones. Even if you are atheist you need to prepare your metaphorical spirit for what may come. Physical health may also be valuable here.
 
-\-- Buy Nvidia call options. Money is plausibly useful, its a form of optionality and there isn't much else. Buy literally max strike, max far out. Hold for 100x or until conditions seriously change. Buy as much as you can afford to lose. I cannot think of anything better.   
-  
-  
-If you have special connections and skill:  
-  
-\-- Try to get the labs nationalized as rapidly as possible. Do not 'just do things' you need to avoid messing up other good actor's plans. But I don't endorse generalized inaction. there is no simple way to operationalize 'actually exercise good judgement'. There probably isn't time for much else. Nationalization at least means there is a mandate to align AI broadly. and maybe it would slow down progress somewhat.  
-  
-\-- I cannot vouch for groups like Pause AI. But I also do not anti-vouch. Maybe they or some similar group is doing things wisely. But before you follow anyone please use your absolute best judgement to determine if they have a good plan or not.   
-  
+\-- Buy Nvidia call options. Money is plausibly useful, its a form of optionality and there isn't much else. Buy literally max strike, max far out. Hold for 100x or until conditions seriously change. Buy as much as you can afford to lose. I cannot think of anything better. 
+
+
+If you have special connections and skill:
+
+\-- Try to get the labs nationalized as rapidly as possible. Do not 'just do things' you need to avoid messing up other good actor's plans. But I don't endorse generalized inaction. there is no simple way to operationalize 'actually exercise good judgement'. There probably isn't time for much else. Nationalization at least means there is a mandate to align AI broadly. and maybe it would slow down progress somewhat.
+
+\-- I cannot vouch for groups like Pause AI. But I also do not anti-vouch. Maybe they or some similar group is doing things wisely. But before you follow anyone please use your absolute best judgement to determine if they have a good plan or not. 
+
 \-- Please don't do anything insane. I am a rationalist and so I too am inclined positively towards thinking through totally crazy ideas. But nothing terrorism adjacent is likely to go well. Consider what happened after 911. That crazy plot actually worked in the sense the Towers went down. But the hijackers claimed they wanted to free the Middle East from USAand Israeli domination. Obviously, even ignoring the direct costs of the terrorist attack, the plan backfired. They brought chaos and death to the countries they claimed to be fighting for. Please do not follow in their foolish footsteps. Before someone thinks its pointless to write this I will note the rationalist and EA communities have committed multiple ideological murders and a many billion dollar fraud. Be careful which ideas you take seriously.
 
 Reply![Image 11](https://www.lesswrong.com/reactionImages/nounproject/noun-chat-1459491.svg)1
@@ -543,8 +543,8 @@ Ways it could be true:
 Ways it could be false:
 
 *   Moloch still rules the world after AGI (maybe there are multiple competing AGIs). For example, a scheme that allows an aligned AGI to propagate it's alignment to the next generation would be valuable to work on today because it might be difficult for our first generation aligned AGI to invent this before someone else (another AGI) creates the second generation, smarter AGI.
-*   DALYs saved today are still valuable.   
-    Q: Why save lives now when it will be so much cheaper after we build aligned AGI?  
+*   DALYs saved today are still valuable. 
+    Q: Why save lives now when it will be so much cheaper after we build aligned AGI?
     A: Why do computer scientists learn to write fast algorithms when they could just wait for compute speed to double?
 *   Basic research might always be valuable because it's often not possible to see the applications of a research field until it's quite mature. A post-AGI world might dedicate some constant fraction of resources towards basic research with no obvious applications, and in that world it's still valuable to pull ahead the curve of basic research accomplishments.
 
@@ -577,9 +577,9 @@ Another quote (emphasis mine):
 * * *
 
 1.  or possibly a [crucial consideration](https://www.lesswrong.com/tag/crucial-considerations) [↩︎](https://www.lesswrong.com/posts/jb4bBdeEEeypNkqzj/orienting-to-3-year-agi-timelines#fnref-Tka4Ndburouou4fBa-1)
-    
+
 2.  The quote is referring to "\[...\] a single global Manhattan Project which is somehow not answerable to non-common-good command such as Trump or Putin or the United Nations Security Council. \[...\]" [↩︎](https://www.lesswrong.com/posts/jb4bBdeEEeypNkqzj/orienting-to-3-year-agi-timelines#fnref-Tka4Ndburouou4fBa-2)
-    
+
 
 Reply
 
@@ -606,14 +606,14 @@ Reply
 I notice that I have almost no concrete model of what that sentence means. A couple of salient questions[\[1\]](https://www.lesswrong.com/posts/jb4bBdeEEeypNkqzj/orienting-to-3-year-agi-timelines#fn-6M5nyvLzqPa4kzTq9-1) I'd be very curious to hear answers to:
 
 *   What concrete ways exist for affecting when (and how) nationalization is done? (How, concretely, does one "push" for/against nationalization of AGI?)
-    
+
 *   By what concrete causal mechanism could pushing for nationalization confer a modicum of control; and control over what exactly, and to whom?
-    
+
 
 * * *
 
 1.  Other questions I wish I (or people advocating for any policy w.r.t. AGI) had answers to include (i.a.) "How could I/we/anyone ensure that the resulting AGI project actually benefits everyone? Who, in actual concrete practice, would end up effectively having control over the AGI? How could (e.g.) the public hold those people accountable, even as those people gain unassailable power? How do we ensure that those people are not malevolent to begin with, and also don't become corrupted by power? What kinds of oversight mechanisms could be built, and how?" [↩︎](https://www.lesswrong.com/posts/jb4bBdeEEeypNkqzj/orienting-to-3-year-agi-timelines#fnref-6M5nyvLzqPa4kzTq9-1)
-    
+
 
 Reply
 
@@ -683,7 +683,7 @@ I'm guessing[\[1\]](https://www.lesswrong.com/posts/jb4bBdeEEeypNkqzj/orienting-
 * * *
 
 1.  with a lot of uncertainty, due to ignorance of your models. [↩︎](https://www.lesswrong.com/posts/jb4bBdeEEeypNkqzj/orienting-to-3-year-agi-timelines#fnref-PqDGmidaczPoaHpCt-1)
-    
+
 
 Reply
 
@@ -715,6 +715,6 @@ Reply
 
 [35Comments](https://www.lesswrong.com/posts/jb4bBdeEEeypNkqzj/orienting-to-3-year-agi-timelines#comments)
 
-   
+
 
 PreviousNext
