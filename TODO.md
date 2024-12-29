@@ -1,5 +1,9 @@
 # Transcription and Content Management Plan
 
+## chrome extention
+
+Create a Chrome extension that automatically saves URLs to README.md and handles Git operations
+
 ## 1. Create Transcripts for Each Resource
 
 ### Web Articles
@@ -20,9 +24,8 @@
    - Add table of contents
 
 ## Send Markdown Files to Kindle
-- Convert markdown files to .mobi format using Calibre or Pandoc
+- Convert markdown files to .pdf format using md2pdf
 - Email converted files to Kindle email address
-- Ensure "Send to Kindle" settings allow receiving documents
 
 ## Add Resources to NotebookLM
 - Use NotebookLM API to programmatically add new resources
