@@ -24,7 +24,7 @@
 
 12. [The "ai-notes" GitHub repository serves as a comprehensive resource for software engineers to stay updated on AI developments, focusing on generative and large language models, and includes various markdown files covering topics from text and image generation to AI infrastructure.](https://github.com/swyxio/ai-notes)
 
-13. [Building Effective Agents by Anthropic](https://www.anthropic.com/research/building-effective-agents?)
+13. [Building Effective Agents by Anthropic](https://www.anthropic.com/research/building-effective-agents) and a video about it : [Anthropic Revealed Secrets to Building Powerful Agents](https://www.youtube.com/watch?v=0v7TQIh_kes)
 
 14. [Andrew Ng Explores The Rise Of AI Agents And Agentic Reasoning | BUILD 2024 Keynote](https://www.youtube.com/watch?v=KrRD7r7y7NY) Youtube video
 
