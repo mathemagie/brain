@@ -52,5 +52,9 @@
 
 25. [Orienting to 3 year AGI timelines](https://www.lesswrong.com/posts/jb4bBdeEEeypNkqzj/orienting-to-3-year-agi-timelines)
 
+26. [Building AI Agents: A Pragmatic Guide](https://huyenchip.com//2025/01/07/agents.html)
+
+27. [Kaggle Whitepaper: Building AI Agents](https://www.kaggle.com/whitepaper-agents)
+
 
 > **Note**: A podcast summarizing these resources has been generated using NoteBookLM tool and is available [here](https://drive.google.com/file/d/1FTXWBy1f9G2uJMeiZEtgO7gRr98Rd7jN/view).
