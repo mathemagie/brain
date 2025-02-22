@@ -1,4 +1,4 @@
-# Brain Project
+# Brain Project.
 
 A Python tool to convert web content to markdown and PDF formats, with optional Kindle delivery support.
 
