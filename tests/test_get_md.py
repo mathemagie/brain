@@ -22,7 +22,7 @@ SAMPLE_MARKDOWN = "# Test Markdown\nThis is a test."
 SAMPLE_LINKS_MD = """
 # Test Document
 [Valid Link](https://example.com)
-[YouTube Link](https://youtube.com/watch?v=123)
+[YouTube Link](https://outube.com/watch?v=123)
 [Another Link](https://test.com)
 """
 
