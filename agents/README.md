@@ -56,5 +56,7 @@
 
 27. [Kaggle Whitepaper: Building AI Agents](https://www.kaggle.com/whitepaper-agents)
 
+28. [Tips for building AI agents by Anthropic](https://www.youtube.com/watch?v=LP5OCa20Zpg) Youtube video
+
 
 > **Note**: A podcast summarizing these resources has been generated using NoteBookLM tool and is available [here](https://drive.google.com/file/d/1FTXWBy1f9G2uJMeiZEtgO7gRr98Rd7jN/view).
