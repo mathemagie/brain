@@ -1,5 +1,5 @@
-requests==2.31.0
+requests>=2.32.0
 python-dotenv==1.0.0
 md2pdf==1.0.1
 pre-commit==3.4.0
-black==24.1.1
+black>=24.3.0
