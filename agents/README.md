@@ -58,5 +58,7 @@
 
 28. [Tips for building AI agents by Anthropic](https://www.youtube.com/watch?v=LP5OCa20Zpg) Youtube video
 
+29. [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic](https://www.youtube.com/watch?v=kQmXtrmQ5Zg) Youtube video
+
 
 > **Note**: A podcast summarizing these resources has been generated using NoteBookLM tool and is available [here](https://drive.google.com/file/d/1FTXWBy1f9G2uJMeiZEtgO7gRr98Rd7jN/view).
