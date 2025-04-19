@@ -1,11 +1,11 @@
 import sys
 import os
-
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-
 import pytest
 import requests
 from unittest.mock import patch, MagicMock
+
+# Add the parent directory to the Python path
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from get_md import (
     is_valid_url,
     download_markdown,
