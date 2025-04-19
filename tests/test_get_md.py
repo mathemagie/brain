@@ -5,7 +5,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import pytest
 import requests
-from unittest.mock import patch, mock_open, MagicMock
+from unittest.mock import patch, MagicMock
 from get_md import (
     is_valid_url,
     download_markdown,
@@ -36,9 +36,9 @@ def mock_response():
 
 
 def test_is_valid_url():
-    assert is_valid_url(VALID_URL) == True
-    assert is_valid_url(INVALID_URL) == False
-    assert is_valid_url("") == False
+    assert is_valid_url(VALID_URL)
+    assert not is_valid_url(INVALID_URL)
+    assert not is_valid_url("")
 
 
 @patch("requests.get")
@@ -66,7 +66,7 @@ def test_download_markdown_request_error(mock_get):
 def test_save_markdown(tmp_path):
     test_file = tmp_path / "test.md"
     result = save_markdown(SAMPLE_MARKDOWN, str(test_file))
-    assert result == True
+    assert result
     assert test_file.read_text() == SAMPLE_MARKDOWN
 
 
@@ -74,7 +74,7 @@ def test_save_markdown_error(tmp_path):
     # Test with an invalid path
     invalid_path = "/invalid/path/test.md"
     result = save_markdown(SAMPLE_MARKDOWN, invalid_path)
-    assert result == False
+    assert not result
 
 
 @patch("os.path.exists")
@@ -92,7 +92,7 @@ def test_get_and_save_md_success(
     mock_send_email.return_value = True
 
     result = get_and_save_md(VALID_URL)
-    assert result == True
+    assert result
 
 
 def test_get_non_youtube_links(tmp_path):
@@ -123,4 +123,4 @@ def test_convert_markdown_to_pdf(mock_exists, mock_system, tmp_path):
 
 def test_convert_markdown_to_pdf_missing_file():
     result = convert_markdown_to_pdf("nonexistent.md")
-    assert result == False
+    assert not result
