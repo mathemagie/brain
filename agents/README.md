@@ -60,5 +60,7 @@
 
 29. [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic](https://www.youtube.com/watch?v=kQmXtrmQ5Zg) Youtube video
 
+30. [A Practical Guide to Building Agents - OpenAI's comprehensive PDF guide for developing effective AI agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
+
 
 > **Note**: A podcast summarizing these resources has been generated using NoteBookLM tool and is available [here](https://drive.google.com/file/d/1FTXWBy1f9G2uJMeiZEtgO7gRr98Rd7jN/view).
