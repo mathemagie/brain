@@ -1,0 +1,13 @@
+# Useful Resources on Model Context Protocol (MCP)
+
+## Articles and Guides
+
+1. [Best MCP Servers for Cursor](https://www.firecrawl.dev/blog/best-mcp-servers-for-cursor) - A comprehensive guide to MCP servers compatible with Cursor editor.
+
+2. [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - A curated collection of MCP servers on GitHub.
+
+3. [Agents, MCPs, and the Next Billion Dollar Idea](https://simple.ai/p/agents-mcps-and-the-next-billion-dollar-idea) - An exploration of the business potential of MCP technology.
+
+4. [MCP: The Protocol That Could Change How We Use AI](https://newsletter.pragmaticengineer.com/p/mcp) - An overview from The Pragmatic Engineer newsletter.
+
+5. [Model Context Protocol: The Future of AI Interfaces?](https://www.latent.space/p/mcp) - Analysis from Latent Space on MCP's potential impact. MCP's coauthors on the origin, challenges and future of the protocol.
