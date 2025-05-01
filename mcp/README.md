@@ -14,4 +14,6 @@
 
 6. [A Deep Dive into MCP and the Future of AI Tooling](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/) - Andreessen Horowitz's analysis of MCP's technical architecture and its implications for the future of AI development tools.
 
-7. [5 Best MCP Servers You Can Add to Cursor For 10x Productivity](https://www.firecrawl.dev/blog/best-mcp-servers-for-cursor) 
+7. [5 Best MCP Servers You Can Add to Cursor For 10x Productivity](https://www.firecrawl.dev/blog/best-mcp-servers-for-cursor)
+
+8. [Give Claude and Cursor access to the entire ElevenLabs AI audio platform via simple text prompts.](https://elevenlabs.io/blog/introducing-elevenlabs-mcp) 
