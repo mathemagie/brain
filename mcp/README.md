@@ -13,3 +13,5 @@
 5. [Model Context Protocol: The Future of AI Interfaces?](https://www.latent.space/p/mcp) - Analysis from Latent Space on MCP's potential impact. MCP's coauthors on the origin, challenges and future of the protocol.
 
 6. [A Deep Dive into MCP and the Future of AI Tooling](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/) - Andreessen Horowitz's analysis of MCP's technical architecture and its implications for the future of AI development tools.
+
+7. [5 Best MCP Servers You Can Add to Cursor For 10x Productivity](https://www.firecrawl.dev/blog/best-mcp-servers-for-cursor) 
