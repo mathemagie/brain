@@ -12,3 +12,7 @@
 - [Vibe Coding with Replit](https://www.youtube.com/watch?v=5OWurmg41tI) by [Matt Palmer](https://www.youtube.com/@mattpalmer) (Developer relations at Replit)
 
 - [How To Get The Most Out Of Vibe Coding | Startup School](https://www.youtube.com/watch?v=BJjsfNO5JTo&t=1s) by YCombinator
+
+- https://blog.replit.com/safe-vibe-coding
+
+- https://simonwillison.net/2025/Mar/19/vibe-coding/
