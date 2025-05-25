@@ -17,4 +17,4 @@
 
 - [Not all AI-assisted programming is vibe coding](https://simonwillison.net/2025/Mar/19/vibe-coding/) - Simon Willison's analysis of vibe coding vs other AI programming approaches
 
-- - [Vibing at Home](https://www.oreilly.com/radar/vibing-at-home/) - O'Reilly's take on remote vibe coding practices
+- [Vibing at Home](https://www.oreilly.com/radar/vibing-at-home/) - O'Reilly's take on remote vibe coding practices
