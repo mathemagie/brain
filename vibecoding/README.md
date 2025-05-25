@@ -13,7 +13,7 @@
 
 - [How To Get The Most Out Of Vibe Coding | Startup School](https://www.youtube.com/watch?v=BJjsfNO5JTo&t=1s) by YCombinator
 
-- https://blog.replit.com/safe-vibe-coding
+- [Safe Vibe Coding](https://blog.replit.com/safe-vibe-coding) - Best practices for secure vibe coding
 
 - [Not all AI-assisted programming is vibe coding](https://simonwillison.net/2025/Mar/19/vibe-coding/) - Simon Willison's analysis of vibe coding vs other AI programming approaches
 
