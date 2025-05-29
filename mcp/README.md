@@ -16,4 +16,8 @@
 
 7. [5 Best MCP Servers You Can Add to Cursor For 10x Productivity](https://www.firecrawl.dev/blog/best-mcp-servers-for-cursor)
 
-8. [Give Claude and Cursor access to the entire ElevenLabs AI audio platform via simple text prompts.](https://elevenlabs.io/blog/introducing-elevenlabs-mcp) 
+8. [Give Claude and Cursor access to the entire ElevenLabs AI audio platform via simple text prompts.](https://elevenlabs.io/blog/introducing-elevenlabs-mcp)
+
+9. [MCP: A Simple Guide To Going Further With AI](https://simple.ai/p/mcp-a-simple-guide-to-going-further-with-ai-is-the-next-competitive-edge-in-ai)
+
+10. [Your Architecture vs. AI Agents: Can MCP Hold the Line?](https://www.querypie.com/resources/discover/white-paper/22/your-architect-vs-ai-agents?) 
