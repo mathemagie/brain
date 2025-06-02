@@ -20,4 +20,6 @@
 
 9. [MCP: A Simple Guide To Going Further With AI](https://simple.ai/p/mcp-a-simple-guide-to-going-further-with-ai-is-the-next-competitive-edge-in-ai)
 
-10. [Your Architecture vs. AI Agents: Can MCP Hold the Line?](https://www.querypie.com/resources/discover/white-paper/22/your-architect-vs-ai-agents?) 
+10. [Your Architecture vs. AI Agents: Can MCP Hold the Line?](https://www.querypie.com/resources/discover/white-paper/22/your-architect-vs-ai-agents?)
+
+11. The Ultimate MCP Handbook: From Basics to Advanced LLM Integration The Ultimate MCP Handbook: [From Basics to Advanced LLM Integration ](https://codemaker2016.medium.com/the-ultimate-mcp-handbook-from-basics-to-advanced-llm-integration-00872d1df1e4)
