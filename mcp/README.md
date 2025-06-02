@@ -24,6 +24,4 @@
 
 11. The Ultimate MCP Handbook: From Basics to Advanced LLM Integration The Ultimate MCP Handbook: [From Basics to Advanced LLM Integration ](https://codemaker2016.medium.com/the-ultimate-mcp-handbook-from-basics-to-advanced-llm-integration-00872d1df1e4)
 
-12. MCP: What It Is and Why It Matters—Part 1 and Part 2
- https://www.oreilly.com/radar/mcp-what-it-is-and-why-it-matters-part-1/
-https://www.oreilly.com/radar/mcp-what-it-is-and-why-it-matters-part-2/ 
+12. [MCP: What It Is and Why It Matters—Part 1](https://www.oreilly.com/radar/mcp-what-it-is-and-why-it-matters-part-1/) and [Part 2](https://www.oreilly.com/radar/mcp-what-it-is-and-why-it-matters-part-2/) - A two-part series from O'Reilly Radar exploring the fundamentals and significance of MCP.
