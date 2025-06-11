@@ -18,3 +18,5 @@
 - [Not all AI-assisted programming is vibe coding](https://simonwillison.net/2025/Mar/19/vibe-coding/) - Simon Willison's analysis of vibe coding vs other AI programming approaches
 
 - [Vibing at Home](https://www.oreilly.com/radar/vibing-at-home/) - O'Reilly's take on remote vibe coding practices
+
+- There’s a lot of talk about “vibe coding”, but is it just a vague term for prototyping, or could vibes change how we build software? : https://newsletter.pragmaticengineer.com/p/vibe-coding-as-a-software-engineer
